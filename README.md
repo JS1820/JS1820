@@ -1,7 +1,7 @@
 <!-- Profile README for @JS1820 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=800&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeevan+Satish;Full-Stack+Developer+%7C+Cybersecurity+MS+@+Drexel;React+%2B+Flask%2FFastAPI+%2B+PostgreSQL+%2B+AWS;I+love+clean+UI%2FUN%26DX+and+solid+architecture" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=800&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeevan+Satish;React+%2B+Flask%2FFastAPI+%2B+PostgreSQL+%2B+AWS;I+love+clean+UI%2FUN%26DX+and+solid+architecture" alt="Typing intro" />
 </p>
 
 <p align="center">
