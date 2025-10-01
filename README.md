@@ -14,15 +14,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 MS in Computer Science (Cybersecurity) @ **Drexel University** 
-- 💼 Internships: **Grayson Sky (AI & Data Developer)**, **Philly AI Connect (Web Dev)**, **42Gear (Fullstack Web Dev)**  
-- 🛠️ Building projects that combine **frontend excellence** with **secure backend systems**  
-- 🎯 Focus areas: React/Tailwind, Flask/FastAPI, AI security, DevOps automation  
-- 📫 Reach me: **jeevansatish89@gmail.com**
+I’m pursuing an MS in Computer Science (Cybersecurity) at Drexel University, where I focus on building projects that combine frontend excellence with secure backend systems. My experience includes internships at Grayson Sky as an AI & Data Developer, Philly AI Connect as a Web Developer, and 42Gear as a Fullstack Web Developer. I’m particularly interested in React, Tailwind, Flask/FastAPI, AI security, and DevOps automation, and I enjoy creating solutions that balance usability with strong technical foundations. You can reach me at jeevansatish89@gmail.com.
+
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 - **🔐 Secure Password Manager** — AES-256 local vault, MFA, clipboard auto-clear, audit logging.  
   <a href="https://github.com/JS1820/secure-password-manager">🔗 Repository</a>
 
@@ -36,34 +33,27 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JS1820&show_icons=true&theme=radical&hide=issues" />
-  <img height="170" src="https://streak-stats.demolab.com?user=JS1820&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JS1820&show_icons=true&theme=graywhite&hide=issues" />
+  <img height="170" src="https://streak-stats.demolab.com?user=JS1820&theme=graywhite" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS1820&layout=compact&theme=radical&langs_count=8" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JS1820&theme=onedark&row=1&column=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS1820&layout=compact&theme=graywhite&langs_count=8" />
 </p>
