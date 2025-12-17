@@ -13,8 +13,13 @@
 
 ---
 
-### 👨‍💻 About Me
-I’m pursuing an MS in Computer Science (Cybersecurity) at Drexel University, where I focus on building projects that combine frontend excellence with secure backend systems. My experience includes internships at Grayson Sky as an AI & Data Developer, Philly AI Connect as a Web Developer, and 42Gear as a Fullstack Web Developer. I’m particularly interested in React, Tailwind, Flask/FastAPI, AI security, and DevOps automation, and I enjoy creating solutions that balance usability with strong technical foundations. You can reach me at jeevansatish89@gmail.com.
+👨‍💻 About Me
+
+I’m a Software Developer with over 3 years of experience building and deploying scalable, secure web applications. I’ve recently completed my Master’s in Computer Science at Drexel University, where I strengthened my foundation in full-stack development, cloud systems, and secure software design.
+
+My professional experience includes developing enterprise-grade applications at MetLife USA, where I worked on frontend-leaning full-stack solutions using React, Python, Django REST Framework, and cloud-native tooling. Previously, I contributed to large-scale automation platforms at Metasystems India, focusing on backend optimization, API design, and CI/CD workflows.
+
+I’m particularly interested in building clean, maintainable systems that balance strong user experience with performance, scalability, and security. My core interests span React and modern frontend frameworks, RESTful APIs, cloud infrastructure, and DevOps automation. You can reach me at jeevansatish89@gmail.com.
 
 
 ---
